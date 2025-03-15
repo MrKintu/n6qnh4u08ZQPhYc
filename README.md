@@ -1,7 +1,6 @@
 # n6qnh4u08ZQPhYc
 Linear Regression ML Model
 
-Overview
 This Jupyter Notebook provides a comprehensive analysis and prediction of car prices based on various features. The project utilizes machine learning techniques to build a model that predicts the Manufacturer's Suggested Retail Price (MSRP) of cars using a dataset containing various attributes.
 
 Table of Contents
